@@ -1,7 +1,6 @@
 # Finance_advisor
 An AI-powered assistant designed to help users understand and navigate digital finance safely. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides multilingual support and trustworthy guidance on UPI, interest rates, stock market, personal finance, investing , loan safety, fraud prevention, online scams and more.
 
-
 ## 🧩 Problem Statement
 
 Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
@@ -9,8 +8,6 @@ Many individuals, especially from rural or digitally underserved areas, lack fin
 ## 💡 Proposed Solution
 
 An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based answers about digital finance. With multilingual support and document retrieval (RAG), it ensures users receive grounded, easy-to-understand financial guidance.
-
----
 
 ## 🧠 Technologies Used
 
@@ -21,6 +18,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - NLP (Natural Language Processing)
 - IBM Cloud Object Storage
 
+
 ## ☁️ IBM Cloud Services Used
 
 - Watsonx.ai Studio
@@ -30,7 +28,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - IBM Cloud IAM
 - IBM Cloud Object Storage
 
-
 ## 👥 End Users
 
 - General public seeking financial clarity  
@@ -39,9 +36,8 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - First-time UPI and digital banking users  
 - NGOs and government outreach programs  
 - Customer service centers
-- Self-Help Groups
+- Self-Help Groups / Women’s Collectives
 - Educators / Institutions
-
 
 ## 🌟 WOW Factors
 
@@ -51,8 +47,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Future-ready with multilingual support  
 - Educates users on scams, interest rates, budgeting, stock market, UPI, and more  
 - Provides safe and personalized financial guidance
-
-
+- 
 ## 🧪 Key Features
 
 - Document-based Q&A via Vector Index  
@@ -68,17 +63,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 3. Vector Index retrieves trusted content from uploaded financial PDFs
 4. Agent responds with a grounded, natural-language answer
 
-## 📌 How to Run or Deploy
-
-1. Log in to IBM Cloud Lite: https://cloud.ibm.com
-2. Launch Watsonx.ai Studio
-3. Create a new AI Agent
-4. Upload financial PDFs to a Vector Index
-5. Choose Tools for web search (Google,Wikipedia,DuckDuckGo etc..)
-6. Configure agent instructions and topics (restricting AI from answering off-topic questions politely)
-7. Test in the preview panel
-8. Deploy via web snippet, Streamlit, or custom web UI
-
 
 ## 🛣️ Future Scope
 
@@ -87,7 +71,4 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Automatic monthly report generation  
 - Region-specific financial policy updates  
 - Multilingual expansion with Watson Language Translator
-
-
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
 
