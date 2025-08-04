@@ -1,7 +1,6 @@
 # Finance_advisor
 An AI-powered assistant designed to help users understand and navigate digital finance safely. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides multilingual support and trustworthy guidance on UPI, interest rates, stock market, personal finance, investing , loan safety, fraud prevention, online scams and more.
 
-ai_bot.jpg
 
 ## 🧩 Problem Statement
 
@@ -22,8 +21,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - NLP (Natural Language Processing)
 - IBM Cloud Object Storage
 
----
-
 ## ☁️ IBM Cloud Services Used
 
 - Watsonx.ai Studio
@@ -33,7 +30,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - IBM Cloud IAM
 - IBM Cloud Object Storage
 
----
 
 ## 👥 End Users
 
@@ -72,24 +68,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 3. Vector Index retrieves trusted content from uploaded financial PDFs
 4. Agent responds with a grounded, natural-language answer
 
----
-
-## 🖼️ Screenshots
-### 🔹 Setting up..
-![Setup & preview image](setup.jpg)
-### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
-### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
-### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
-### 🔹 Deployment & Preview...
-![Deployment & Testing](deployed.jpg)
-### 🔹 API References after Deployment...
-![api _references](links.jpg)
-### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
-
 ## 📌 How to Run or Deploy
 
 1. Log in to IBM Cloud Lite: https://cloud.ibm.com
@@ -101,7 +79,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 7. Test in the preview panel
 8. Deploy via web snippet, Streamlit, or custom web UI
 
----
 
 ## 🛣️ Future Scope
 
@@ -110,22 +87,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 - Automatic monthly report generation  
 - Region-specific financial policy updates  
 - Multilingual expansion with Watson Language Translator
-
----
-
-## 🔗 Useful Links
-
-- [IBM Cloud Lite](https://cloud.ibm.com/registration)
-- [IBM Watsonx.ai](https://www.ibm.com/products/watsonx-ai)
-- [RBI Official Website](https://www.rbi.org.in)
-- [NPCI FAQs](https://www.npci.org.in/what-we-do/upi/faqs)
-- [IBM SkillsBuild](https://skillsbuild.org)
-
----
-
-## ⚖️ License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 > Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
